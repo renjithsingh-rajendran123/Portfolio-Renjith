@@ -5,7 +5,7 @@ import codesandlogo from "../images/codesand.png";
 import { faFacebook, faWhatsapp, faTwitter, faLinkedin, faInstagram } from "@fortawesome/free-brands-svg-icons";
 import {faEnvelopeOpen} from "@fortawesome/free-solid-svg-icons";
 
-const techlist = ["HTML", "CSS", "SASS", "JavaScript", "C#", "TypeScript", "ReactJS", "ASP.Net MVC", "ASP.NET Core", "Blazor", "Embers", "Angular", "Vue", "SQL"];
+const techlist = ["HTML", "CSS", "SASS", "JavaScript", "C#", "TypeScript", "ReactJS", "ASP.NET MVC", "ASP.NET Core", "Blazor", "EmberJS", "Angular", "Vue", "SQL"];
 
 const companylist = ["Syncfusion", "Virtusa", "StandardChartered"];
 
