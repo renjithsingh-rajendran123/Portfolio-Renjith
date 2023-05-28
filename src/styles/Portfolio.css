@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;  
+    scroll-behavior: smooth;  
+    text-align: center;
+}
+    
+.project{
+    color: greenyellow;
+    font-size:30pt;
+}    
+.title{    
+    font-size: 30pt; 
+    font-family: cursive, sans-serif; 
+    padding: 20px; 
+    text-align: start;
+}
+.scrollcss svg{
+    padding: 20px;
+    color: yellowgreen;    
+    width: 50px;
+    height: 50px;
+}
