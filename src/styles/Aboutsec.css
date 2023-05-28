@@ -19,7 +19,7 @@
 
 @media(max-width: 700px) {
     .about-sec-sub-two, .about-sec-sub-one{
-        min-width: 100%;
-        max-width: 100%;
+        min-width: 90%;
+        max-width: 90%;
     }
 }
