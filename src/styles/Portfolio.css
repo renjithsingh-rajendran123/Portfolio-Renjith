@@ -3,7 +3,10 @@
     scroll-behavior: smooth;  
     text-align: center;
 }
-    
+a {
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+-webkit-tap-highlight-color: transparent;
+}
 .project{
     color: greenyellow;
     font-size:30pt;
