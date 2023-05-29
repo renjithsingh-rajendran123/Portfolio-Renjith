@@ -1,7 +1,7 @@
 .projects-sec{
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 50px;
     flex-direction: row; 
     margin: 20px;
     padding: 20px 20px 20px 20px;
