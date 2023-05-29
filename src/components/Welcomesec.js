@@ -13,7 +13,7 @@ const Welcomesec = ()=>{
             <div className='welcome-sec-sub'>
                 <p style={{fontSize: '30px'}}>Hey, I'm</p>
                 <img src={Renjith} alt="Renjith_Image"></img>
-                <p className='project'>Renjith Singh Rajendran</p> 
+                <span className='project'>Renjith Singh Rajendran</span> 
                 <span style={{fontSize: 15}}>Software Engineer & Front-end web developer</span>
                 <div className='scrollcss'>
                     <a href="#about">
