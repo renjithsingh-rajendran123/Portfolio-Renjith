@@ -11,10 +11,10 @@ const Welcomesec = ()=>{
                 </a>
             </span>
             <div className='welcome-sec-sub'>
-                <p style={{fontSize: '30px'}}>Hey, I'm</p>
+                <p style={{fontSize: '20px'}}>Hey, I'm</p>
                 <img src={Renjith} alt="Renjith_Image"></img>
                 <span className='project'>Renjith Singh Rajendran</span> 
-                <span style={{fontSize: 15}}>Software Engineer & Front-end web developer</span>
+                <span style={{fontSize: 10}}>Software Engineer & Front-end web developer</span>
                 <div className='scrollcss'>
                     <a href="#about">
                         <FontAwesomeIcon icon={faAngleDoubleDown} className="fa-bounce"></FontAwesomeIcon>
